@@ -20,7 +20,7 @@ def draw_flower(n, petal_color, border_color, border_width):
         turtle.left(360/n)
 
 turtle.speed(6)
-turtle.bgcolor("light blue")
+turtle.bgcolor("black")
 
 draw_flower(10,"pink", "purple", 7)
 
