@@ -1,3 +1,0 @@
-# Flower
-
-![Flower](./flower.png)
