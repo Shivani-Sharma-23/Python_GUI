@@ -1,2 +1,3 @@
 # Flower
-[flower.png]
+
+![Flower](flower.png)
